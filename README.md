@@ -1,6 +1,8 @@
-### Hi there 👋 my name is Leah and I'm 17 years old. I'm currently a senior in highschool in ACS amman. 
+ Hi there 👋 my name is Leah and I'm 17 years old. I'm currently a __senior__ in highschool in ACS amman. 
 My hobbies enclude:
 * crocheting
+* mindless scrolling on social media
+* hanging out with my _adorable_ baby brother
 * 
 
 <!--
