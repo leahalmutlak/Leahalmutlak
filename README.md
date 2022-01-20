@@ -1,9 +1,11 @@
- Hi there 👋 my name is Leah and I'm 17 years old. I'm currently a __senior__ in highschool in ACS amman. 
+ Hi there 👋 my name is Leah and I'm 17 years old. I'm currently a *senior* in highschool in ACS amman. 
 My hobbies enclude:
-* crocheting
-* mindless scrolling on social media
-* hanging out with my _adorable_ baby brother
-* 
+* knitting
+* mindless scrolling on ✨ social media ✨
+* hanging out with my friends 
+* __studying__
+
+
 
 <!--
 **leahalmutlak/Leahalmutlak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
